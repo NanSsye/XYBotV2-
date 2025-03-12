@@ -4,6 +4,8 @@
 
 当前日期：**2025年3月12日**
 
+<img src="https://github.com/user-attachments/assets/a2627960-69d8-400d-903c-309dbeadf125" width="400" height="600">
+
 ---
 
 ## 插件列表 📑
