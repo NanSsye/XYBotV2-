@@ -44,8 +44,10 @@
      - **链接**: [NanSsye/VideoSender](https://github.com/NanSsye/VideoSender) (3 ⭐)
 11. **AutoSummary**
     - **简介**: 自动总结文本内容和卡片消息，集成 Dify AI。
-    - **链接**: [NanSsye/AutoSummary](https://github.com/NanSsye/AutoSummary) (⭐) 
-
+    - **链接**: [NanSsye/AutoSummary](https://github.com/NanSsye/AutoSummary) (⭐)
+12. **FastGPT-XYBotV2**
+    - **简介**: 一个基于 XYBot 框架的插件，用于集成 FastGPT 知识库问答功能。
+    - **链接**: [NanSsye/FastGPT-XYBotV2](https://github.com/NanSsye/FastGPT-XYBotV2) (⭐)
 - ## 许可 📜
 
 遵循 [MIT 许可证](LICENSE)。
