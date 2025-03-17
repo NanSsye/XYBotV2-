@@ -47,7 +47,10 @@
     - **链接**: [NanSsye/AutoSummary](https://github.com/NanSsye/AutoSummary) (⭐)
 12. **FastGPT-XYBotV2**
     - **简介**: 一个基于 XYBot 框架的插件，用于集成 FastGPT 知识库问答功能。
-    - **链接**: [NanSsye/FastGPT-XYBotV2](https://github.com/NanSsye/FastGPT-XYBotV2) (⭐)
+    - **链接**: [NanSsye/FastGPT-XYBotV2](https://github.com/NanSsye/FastGPT-XYBotV2) (⭐) 
+13. **GeminiImage**
+    - **简介**:🚀 使用 Google 最先进的 Gemini AI 模型生成和编辑精美图像！ 本插件是 XYBotv2 的一个插件。
+    - **链接**: [NanSsye/FastGPT-XYBotV2](https://github.com/NanSsye/GeminiImage) (⭐)    
 - ## 许可 📜
 
 遵循 [MIT 许可证](LICENSE)。
