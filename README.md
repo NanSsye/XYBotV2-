@@ -50,7 +50,10 @@
     - **链接**: [NanSsye/FastGPT-XYBotV2](https://github.com/NanSsye/FastGPT-XYBotV2) (⭐) 
 13. **GeminiImage**
     - **简介**:🚀 使用 Google 最先进的 Gemini AI 模型生成和编辑精美图像！ 本插件是 XYBotv2 的一个插件。
-    - **链接**: [NanSsye/FastGPT-XYBotV2](https://github.com/NanSsye/GeminiImage) (⭐)    
+    - **链接**: [NanSsye/GeminiImage](https://github.com/NanSsye/GeminiImage) (⭐)
+14. **CogVideoX**
+    - **简介**:🚀 使用 Google 最先进的 Gemini AI 模型生成和编辑精美图像！ 本插件是 XYBotv2 的一个插件。
+    - **链接**: [NanSsye/CogVideoX](https://github.com/NanSsye/CogVideoX) (⭐)   
 - ## 许可 📜
 
 遵循 [MIT 许可证](LICENSE)。
