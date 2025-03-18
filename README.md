@@ -62,6 +62,11 @@
 
 **给个 ⭐ Star 支持吧！** 😊
 
+**开源不易，感谢打赏支持！**
+
+![image](https://github.com/user-attachments/assets/2dde3b46-85a1-4f22-8a54-3928ef59b85f)
+
+
 ---
 
 *© 2025 NanSsye*
